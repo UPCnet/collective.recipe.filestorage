@@ -1,4 +1,4 @@
-0.7 (unreleased)
+1.0 (2023-09-12)
 ================
 
  - Add support for c.r.backup
